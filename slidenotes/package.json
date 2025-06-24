@@ -10,7 +10,7 @@
   "author": "Matthew Williams - matt.williams@datadoghq.com",
   "license": "ISC",
   "dependencies": {
-    "aws-sdk": "^2.156.0",
+    "aws-sdk": "^2.814.0",
     "mz": "^2.7.0"
   }
 }

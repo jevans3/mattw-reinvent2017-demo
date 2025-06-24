@@ -10,7 +10,7 @@
   "author": "Matthew Williams - matt.williams@datadoghq.com",
   "license": "ISC",
   "dependencies": {
-    "aws-sdk": "^2.141.0"
+    "aws-sdk": "^2.1692.0"
   },
   "devDependencies": {
     "@types/babel-core": "^6.25.3",
@@ -24,6 +24,6 @@
     "serverless-pseudo-parameters": "^1.2.5",
     "serverless-step-functions": "^1.2.0",
     "serverless-webpack": "^4.0.0",
-    "webpack": "^3.8.1"
+    "webpack": "^5.99.9"
   }
 }
